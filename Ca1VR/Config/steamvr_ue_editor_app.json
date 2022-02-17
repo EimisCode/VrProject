@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.ca1vr-17735300.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "C:/Users/eimis/OneDrive/Documents/Unreal Projects/Ca1VR/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "C:/Users/eimis/OneDrive/Documents/Unreal Projects/VrProject/Ca1VR/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
