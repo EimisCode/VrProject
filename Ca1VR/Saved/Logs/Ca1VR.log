@@ -4475,3 +4475,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.04-03.09.47:882][750]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.04-03.09.47:882][750]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
 [2022.05.04-03.09.47:882][750]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.05.04-03.12.50:884][634]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (Box_DM8)
+[2022.05.04-03.13.00:762][211]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: E5B2AC8F68A85127D24F2E03CD48C2C1E88EB72E), compiling. 
+[2022.05.04-03.13.00:782][211]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.05.04-03.13.00:784][211]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.M_Wood_Floor_Walnut_Polished needed to have new flag set bUsedWithSkeletalMesh !
+[2022.05.04-03.13.00:786][211]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: 4105B1B349E7DE7C9558229B5B0EE7DDEE1FCDB9), compiling. 
+[2022.05.04-03.13.00:812][211]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2022.05.04-03.13.00:844][212]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.05.04-03.13.00:844][212]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.05.04-03.13.00:844][212]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 39
+[2022.05.04-03.13.00:844][212]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 35
+[2022.05.04-03.13.00:844][212]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 31
+[2022.05.04-03.13.00:844][212]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 27
+[2022.05.04-03.13.00:844][212]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 23
+[2022.05.04-03.13.00:844][212]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 19
+[2022.05.04-03.13.00:844][212]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 15
+[2022.05.04-03.13.00:844][212]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2022.05.04-03.13.00:844][212]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2022.05.04-03.13.00:844][212]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2022.05.04-03.13.00:844][212]LogShaderCompilers: Display: Started 39 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-03.13.00:844][212]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.04-03.13.03:503][284]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.04-03.13.03:503][284]LogShaderCompilers: Display: Total job queries 239, among them cache hits 7 (2.93%)
+[2022.05.04-03.13.03:503][284]LogShaderCompilers: Display: Tracking 167 distinct input hashes that result in 118 distinct outputs (70.66%)
+[2022.05.04-03.13.03:503][284]LogShaderCompilers: Display: RAM used: 2.51 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.35%
+[2022.05.04-03.13.03:503][284]LogShaderCompilers: Display: ================================================
+[2022.05.04-03.13.20:600][662]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (Box_DM7)
+[2022.05.04-03.13.37:274][183]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (Box_DM6)
+[2022.05.04-03.13.44:310][589]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (Box_DM5)
+[2022.05.04-03.13.59:309][416]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (Box_DM3)
+[2022.05.04-03.14.10:144][ 52]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.05.04-03.14.57:306][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2022.05.04-03.14.59:375][983]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.05.04-03.15.01:149][ 87]LogEditorViewport: Clicking on Actor (LMB): Grabbable_SmallCube_C (Grabbable_SmallCube5)
+[2022.05.04-03.15.17:984][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.05.04-03.15.18:945][ 55]LogSavePackage: Moving '../../../../../../Users/seanr/OneDrive/Documents/GitHub/Ca1VR/Saved/VRTemplateMapCD8E6DA04056AD9B677A13BE20A4FDA4.tmp' to '../../../../../../Users/seanr/OneDrive/Documents/GitHub/Ca1VR/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.05.04-03.15.19:063][ 55]LogSavePackage: Moving '../../../../../../Users/seanr/OneDrive/Documents/GitHub/Ca1VR/Saved/VRTemplateMap_BuiltData465621DF42E96C25814A66B3BC04F761.tmp' to '../../../../../../Users/seanr/OneDrive/Documents/GitHub/Ca1VR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2022.05.04-03.15.19:086][ 55]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.04-03.15.19:086][ 55]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2022.05.04-03.15.19:086][ 55]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
